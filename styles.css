@@ -269,9 +269,9 @@ img {
 
   .preloader-mask {
     -webkit-mask: linear-gradient(var(--base-300), var(--base-300)),
-      url("/public/mask.svg") center/90% no-repeat;
+      url("/mask.svg") center/90% no-repeat;
     -webkit-mask-composite: subtract;
-    mask: linear-gradient(#fff, #fff), url("/public/mask.svg") center/90% no-repeat;
+    mask: linear-gradient(#fff, #fff), url("/mask.svg") center/90% no-repeat;
     mask-composite: subtract;
   }
 
