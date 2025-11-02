@@ -1,9 +1,4 @@
-import { setupMarqueeAnimation } from "./marquee.js";
 
-import gsap from "gsap";
-import { ScrollTrigger } from "gsap/ScrollTrigger";
-import { SplitText } from "gsap/SplitText";
-import Lenis from "lenis";
 
 gsap.registerPlugin(SplitText);
 
