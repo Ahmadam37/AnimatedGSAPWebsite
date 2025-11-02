@@ -1,4 +1,4 @@
-import gsap from "gsap";
+
 
 export function setupMarqueeAnimation() {
   const marqueeItems = gsap.utils.toArray(".marquee h1");
