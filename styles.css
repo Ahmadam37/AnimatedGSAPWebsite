@@ -183,10 +183,10 @@ img {
 .preloader-mask {
   background-color: var(--base-100);
   -webkit-mask: linear-gradient(var(--base-300), var(--base-300)),
-    url("./mask.svg") center/50% no-repeat;
+    url("https://github.com/Ahmadam37/AnimatedGSAPWebsite/blob/main/public/mask.svg") center/50% no-repeat;
   -webkit-mask-composite: subtract;
   mask: linear-gradient(var(--base-300), var(--base-300)),
-    url("./mask.svg") center/50% no-repeat;
+    url("https://github.com/Ahmadam37/AnimatedGSAPWebsite/blob/main/public/mask.svg") center/50% no-repeat;
   mask-composite: subtract;
   will-change: transform;
   z-index: 1;
@@ -269,9 +269,9 @@ img {
 
   .preloader-mask {
     -webkit-mask: linear-gradient(var(--base-300), var(--base-300)),
-      url("./mask.svg") center/90% no-repeat;
+      url("https://github.com/Ahmadam37/AnimatedGSAPWebsite/blob/main/public/mask.svg") center/90% no-repeat;
     -webkit-mask-composite: subtract;
-    mask: linear-gradient(#fff, #fff), url("./mask.svg") center/90% no-repeat;
+    mask: linear-gradient(#fff, #fff), url("https://github.com/Ahmadam37/AnimatedGSAPWebsite/blob/main/public/mask.svg") center/90% no-repeat;
     mask-composite: subtract;
   }
 
